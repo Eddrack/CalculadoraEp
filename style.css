@@ -1,0 +1,31 @@
+﻿h1 {
+    color: black;
+    background-color: forestgreen;
+}
+
+h2 {
+    color: black;
+    background-color: cornflowerblue;
+}
+
+p {
+    color: black;
+    background-color: grey;
+    font-family: 'Comic Sans MS';
+}
+
+#parraf1 {
+    color: whitesmoke;
+    background-color: grey;
+    font-family: 'Baskerville Old Face';
+}
+
+input {
+    background-color: lightgray;
+    font-family: 'Arial Rounded MT';
+}
+
+button {
+    background-color: goldenrod ;
+    font-family: 'Arial Rounded MT';
+}
